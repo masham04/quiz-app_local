@@ -1,0 +1,58 @@
+[
+    {
+        "question": "Who was the original drummer for The Beatles?",
+        "answer": "Tommy Moore",
+        "options": [
+            "Pete Best",
+            "Ringo Starr",
+            "Tommy Moore",
+            "Stuart Sutcliffe"
+        ]
+        
+    },
+    {
+        "question": "Who was the first president of Pakistan?",
+        "answer": "Quid-e-Azam",
+        "options": [
+            "Pete Best",
+            "Quid-e-Azam",
+            "Tommy Moore",
+            "Allama Iqbal"
+    ]
+        
+    },
+    {
+        "question": "In which year of First World War Germany declared war on Russia and France?",
+        "answer": "1914",
+        "options": [
+            "1914",
+            "1911",
+            "1888",
+            "1914"
+        ]
+        
+    },
+    {
+        "question": "India has largest deposits of ____ in the world",
+        "answer": "mica",
+        "options": [
+            "Gold",
+            "Silver",
+            "mica",
+            "Platinium"
+        ]
+        
+    },
+    {
+        "question": "When Pakistan won the Cricket World Cup:",
+        "answer": "1992",
+        "options": [
+            "1988",
+            "1992",
+            "1999",
+            "2011"
+    ]
+        
+    }
+
+]
